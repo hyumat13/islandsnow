@@ -8,3 +8,17 @@
   box-shadow: none;
   border: none;
 }
+
+.footer{
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.item{
+  color: black;
+}
+
+ui.list>a.item {
+  cursor: pointer;
+  color: black;
+}
